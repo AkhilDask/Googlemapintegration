@@ -1,16 +1,28 @@
-# googlemapdemo
 
-A new Flutter project.
+# Google Map Implementation
 
-## Getting Started
+This application provides real-time updates of user locations using position streaming. It allows users to track their location, calculate the distance between a source and destination, and visualize their movements on a map
+ 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+#### Overview
+
+* Real-Time Location Updates: Continuously stream the user's location for up-to-date tracking.
+* Distance Calculation: Automatically calculate the distance between the user's current location and a specified destination 
+* User-Friendly Interface: Simple and intuitive UI for easy navigation and operation.
+* Map Integration: Visual representation of user movements on a map, enhancing tracking capabilities.
+
+
+## Screenshots
+
+![Google_map 1](https://github.com/user-attachments/assets/210404dd-6e9a-46a9-944b-11890d6d727d)
+
+
+## Tech Stack
+
+**Flutter , Geolocator, Stream** 
+
